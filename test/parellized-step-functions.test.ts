@@ -7,7 +7,7 @@
 test('SQS Queue Created', () => {
 //   const app = new cdk.App();
 //     // WHEN
-//   const stack = new ParellizedStepFunctions.ParellizedStepFunctionsStack(app, 'MyTestStack');
+//   const stack = new ParellizedStepFunctions.StaticParellizedStepFunctionsStack(app, 'MyTestStack');
 //     // THEN
 //   const template = Template.fromStack(stack);
 
